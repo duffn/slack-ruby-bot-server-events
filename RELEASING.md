@@ -1,4 +1,4 @@
-# Releasing Slack-Ruby-Bot-Server-Events
+# Releasing Slack-Ruby-Bot-Server-Events!
 
 There're no hard rules about when to release slack-ruby-bot-server-events. Release bug fixes frequently, features not so frequently and breaking API changes rarely.
 
